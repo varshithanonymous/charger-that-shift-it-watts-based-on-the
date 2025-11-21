@@ -28,6 +28,41 @@ const content = {
       "title": "Compact & Portable",
       "description": "Lightweight design makes it perfect for travel, so you stay powered up wherever you go.",
       "icon": "\u2708\ufe0f"
+    },
+    {
+      "title": "Smart Charge Cycles",
+      "description": "Monitors and adjusts charging patterns to reduce strain on your battery and extend its lifespan.",
+      "icon": "\u23f3"
+    },
+    {
+      "title": "Deep Diagnostics",
+      "description": "Provides real-time insights into your battery's health, usage, and charging efficiency.",
+      "icon": "\ud83d\udd22"
+    },
+    {
+      "title": "EcoCharge Mode",
+      "description": "Slows down charging near full capacity to prevent overcharging and minimize heat generation.",
+      "icon": "\ud83c\udf10"
+    },
+    {
+      "title": "Power Boost Recovery",
+      "description": "Revitalizes older batteries by optimizing charging cycles for maximum performance.",
+      "icon": "\ud83c\udf1f"
+    },
+    {
+      "title": "Voltage Guard",
+      "description": "Constantly stabilizes voltage to protect against sudden power surges and battery damage.",
+      "icon": "\ud83d\udee0\ufe0f"
+    },
+    {
+      "title": "Temperature Shield",
+      "description": "Proactively monitors and controls temperature to keep your battery safe from overheating.",
+      "icon": "\ud83d\udd6f\ufe0f"
+    },
+    {
+      "title": "Battery Regeneration Alerts",
+      "description": "Notifies you of optimal times for full discharges and recharges to restore battery health.",
+      "icon": "\ud83d\udce2"
     }
   ],
   "pricing": {
