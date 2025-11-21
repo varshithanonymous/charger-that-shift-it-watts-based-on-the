@@ -4,13 +4,13 @@ Smart Charging, Seamlessly Adapted
 
 ## 🎨 Unique Design System
 
-**Design ID:** 7079
+**Design ID:** 1056
 
 - Layout: centered
-- Fonts: font-mono / font-sans
-- Animation: minimal
-- Spacing: spacious
-- Color Temp: warm
+- Fonts: font-sans / font-serif
+- Animation: playful
+- Spacing: relaxed
+- Color Temp: vibrant
 
 ## Run
 
